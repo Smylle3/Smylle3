@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/Smylle3">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Smylle3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smylle3&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Smylle3&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smylle3&layout=compact&langs_count=7&theme=synthwave&bg_color=30,e96443,904e95&title_color=fff&text_color=fff""/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

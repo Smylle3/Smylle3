@@ -1,4 +1,5 @@
 ## Hi, I’m Smylle
+A junior web developer
 
 <div>
   <a href="https://github.com/Smylle3">

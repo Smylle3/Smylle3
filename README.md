@@ -7,7 +7,10 @@ And this is where I keep my projects!
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Smylle3&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smylle3&layout=compact&langs_count=7&theme=synthwave&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
   <img height="277em" src="https://activity-graph.herokuapp.com/graph?username=Smylle3&theme=synthwave&bg_color=904e95&color=fff&line=fff&point=0891b2&area_color=e96443&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+  
+  ![snake gif](https://github.com/Smylle3/Smylle3/blob/develop/github-contribution-grid-snake.svg)
 </p>
+
 <br />
 
 ## My Skills

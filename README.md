@@ -1,15 +1,17 @@
 <h1 align="center"><img width="100%" src="https://github.com/Smylle3/Smylle3/blob/develop/Hi%2C%20i'm%20Smylle.png" /></h1>
-<p align="center" >
-  <a href="https://www.instagram.com/dompedro_iv/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:joao21731@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "mailto:joao21731@gmail.com"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:joao21731@gmail.com"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-smylle/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+I'm frontend developer, learging React, React Native, and I work on my TODO platform, <a href="yourtasks.tech" target="_blank">YourTasks</a>. 
+
+# :iphone: Contact
+<p>
+  <a href="https://www.instagram.com/dompedro_iv/" target="_blank"><img src="https://img.shields.io/badge/-dompedro_iv-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:joao21731@gmail.com"><img src="https://img.shields.io/badge/joao21731@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-smylle/" target="_blank"><img src="https://img.shields.io/badge/-João Pedro Smylle-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "https://t.me/Smylle3"><img src="https://img.shields.io/badge/@Smylle3-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <a href = "https://wa.me/5561984145192"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </p>
 
-<p>FrontEnd developer, game lover and</p>
-
-# 	:rocket:Technologies and Tools
+# :rocket:Technologies and Tools
   <a href="*" ><img align="center" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
   <a href="*" ><img align="center" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></a>
   <a href="*" ><img align="center" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>

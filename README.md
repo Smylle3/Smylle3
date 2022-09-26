@@ -24,10 +24,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smylle3&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="GitTrophy" />
   <img src="https://github-readme-stats.vercel.app/api?username=Smylle3" alt="GitTrophy" />
 </div>
-<br />
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smylle3&layout=compact" alt="GitHubTopLangs" />
-</div>
 <div align="center">
   <img height="300em" src="https://activity-graph.herokuapp.com/graph?username=Smylle3&theme=synthwave&bg_color=fff&color=000&line=000&point=4169e1&area_color=808080&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitGrafh" />
 </div>
